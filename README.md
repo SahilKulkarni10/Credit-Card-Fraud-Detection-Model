@@ -1,4 +1,4 @@
-Here’s a brief overview you can use for your README on GitHub regarding your Credit Card Fraud Detection Model:
+Here’s the updated README that includes the dataset link from Kaggle:
 
 ---
 
@@ -23,6 +23,10 @@ The **Credit Card Fraud Detection Model** is a machine learning application desi
 - NumPy (for numerical computations)
 - Streamlit (for creating the web application)
 
+## Dataset
+
+The model uses the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data) available on Kaggle. This dataset contains transactions made by credit cards in September 2013 by European cardholders, with 492 fraudulent transactions out of a total of 284,807.
+
 ## Getting Started
 
 ### Prerequisites
@@ -43,7 +47,7 @@ The **Credit Card Fraud Detection Model** is a machine learning application desi
    pip install pandas numpy scikit-learn streamlit
    ```
 
-3. Download the credit card dataset (e.g., `creditcard.csv`) and place it in the project directory.
+3. Download the credit card dataset from Kaggle, and place the `creditcard.csv` file in the project directory.
 
 ### Running the Application
 
